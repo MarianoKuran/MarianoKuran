@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariano Kuran</h1>
+<h1 align="left">Hi 👋, I'm Mariano Kuran</h1>
 <h3 align="center">A Fullstack Developer from SDE, Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
