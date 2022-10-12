@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariano Kuran</h1>
 <h3 align="center">A Fullstack Developer from SDE, Argentina</h3>
+<p align="justify">Soy Desarrollador Web Fullstack con afinidad por el frontend. Aparte de programar, me gusta mucho leer e investigar de diferentes temas, relacionados a la musica, la psicologia, la economia y la politica. Me considero y me consideran una persona organizada, que resuelve problemas eficazmente, independiente, con un muy buen sentido del humor y detallista. Me gusta realizar actividades al aire libre con amigos o familia, tocar la guitarra, cantar y amo los perros y los gatos.
+Tambien me gusta participar en proyectos grupales con gente positiva y que aporte valor y experiencias agradables.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianokuran&label=Profile%20views&color=0e75b6&style=flat" alt="marianokuran" /> </p>
 
